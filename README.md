@@ -30,7 +30,7 @@ A simple Python-based Gesture-Controlled Media Player that uses hand gestures to
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Gesture-Control-Media-Player.git](https://github.com/farhat-1203/Gesture-Control-Media-Player.git
+    git clone https://github.com/farhat-1203/Gesture-Control-Media-Player.git
     cd Gesture-Control-Media-Player
     ```
 
